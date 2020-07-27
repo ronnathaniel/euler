@@ -1,4 +1,9 @@
 
+/**
+ * Ron Nathaniel
+ * July 26 2020
+ */
+ 
 public class Main {
 
   public static int getTotal(int limit) {

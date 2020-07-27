@@ -1,4 +1,9 @@
 
+"""
+Ron Nathaniel
+July 26 2020
+"""
+
 def main(limit=1000):
     total = 0
     for i in range(limit):

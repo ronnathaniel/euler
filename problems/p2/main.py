@@ -1,4 +1,9 @@
 
+"""
+Ron Nathaniel
+July 26 2020
+"""
+
 def main(total=0, past=0, current=1, limit=4_000_000):
     next = past + current
     if next % 2 == 0:
